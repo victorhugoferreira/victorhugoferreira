@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=150&section=header"/>
  
 ##
  ### 💻 Hello world! 💻
@@ -44,4 +43,3 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorhugoferreira&bg_color=ffffff&color=000000&line=4B0082&point=000000&area=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=150&section=footer"/>
